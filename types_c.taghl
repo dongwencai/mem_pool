@@ -1,0 +1,5 @@
+syn keyword CTagsMember free_list pid rwlock bk_size used_list bk_cnt
+syn keyword CTagsFunction mem_pool_create_ex mem_pool_create mem_pool_get_block_ex main mem_pool_destory_ex mem_pool_free_block_ex
+syn keyword CTagsType mem_pool_t mem_pool_list mem_block_hdl_t
+syn keyword CTagsDefinedName __MEM_POOL_H__
+
